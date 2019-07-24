@@ -1,0 +1,8 @@
+body { font-family: 'Lora', serif; color:#ccc; background-image: url("images/bg.jpg"); }
+h1 { font-weight:bold; color:#ebc034 !important; }
+span { color:#000 !important; }
+a { color:#ebc034 !important;}
+.active { font-weight:bold; color:#fff !important;}
+a:hover {color:#fff !important; text-decoration:none;}
+.container { color:#ccc !important; background:rgb(0,0,0); background: transparent\9; background:rgba(0,0,0,0.9); }
+.bottomlink { position: fixed; width: 50%; bottom: 10px; }
